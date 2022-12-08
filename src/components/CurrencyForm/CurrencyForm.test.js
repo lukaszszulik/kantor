@@ -1,4 +1,3 @@
-import { render } from '@testing-library/react';
 import CurrencyForm from './CurrencyForm';
 import userEvent from '@testing-library/user-event';
 import { render, screen, cleanup } from '@testing-library/react';
